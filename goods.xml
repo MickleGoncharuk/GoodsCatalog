@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <product name ="Батон" price ="8,5" category ="Продукты питания" image="" ></product>
+  <product name ="Молоко" price ="18,45" category ="Продукты питания" image="" ></product>
+  <product name ="Колбаса" price ="99,25" category ="Продукты питания" image="" ></product>
+  <product name ="Гиря" price ="220,5" category ="Спорттовары" image="" ></product>
+  <product name ="Штанга" price ="1200" category ="Спорттовары" image="" ></product>
+  <product name ="Гантели" price ="440" category ="Спорттовары" image="" ></product>
+  <product name ="Пылесос" price ="4870" category ="Бытовая техника" image="" ></product>
+  <product name ="Микроволновка" price ="2300" category ="Бытовая техника" image="" ></product>
+  <product name ="Холодильник" price ="7800" category ="Бытовая техника" image="" ></product>
+  <product name ="Dell" price ="7800" category ="Компьютеры" image="" ></product>
+  <product name ="Asus" price ="7800" category ="Компьютеры" image="" ></product>
+  <product name ="Samsung" price ="7800" category ="Компьютеры" image="" ></product>
+  <product name ="Стол" price ="7800" category ="Мебель" image="" ></product>
+  <product name ="Кресло" price ="7800" category ="Мебель" image="" ></product>
+  <product name ="Диван" price ="7800" category ="Мебель" image="" ></product>
+
+  
+</root>
