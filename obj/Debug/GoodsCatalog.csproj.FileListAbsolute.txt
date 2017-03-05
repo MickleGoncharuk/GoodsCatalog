@@ -1,9 +1,0 @@
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.exe.config
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.exe
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.pdb
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.csprojResolveAssemblyReference.cache
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.Form1.resources
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.Properties.Resources.resources
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.csproj.GenerateResource.Cache
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.exe
-C:\Users\Оксана\Desktop\WinForms\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.pdb

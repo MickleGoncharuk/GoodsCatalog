@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <product name="Батон" price="7,55" category="Продукты питания" image="..\\..\\Images\\01.jpg" />
+  <product name="Кефир" price="12,48" category="Продукты питания" image="..\\..\\Images\\02.png" />
+  <product name="Колбаса" price="88,58" category="Продукты питания" image="..\\..\\Images\\03.jpg" />
+  <product name="Гиря" price="120,00" category="Спорттовары" image="..\\..\\Images\\04.jpg" />
+  <product name="Штанга" price="150,00" category="Спорттовары" image="..\\..\\Images\\05.jpg" />
+  <product name="Гантели" price="45,00" category="Спорттовары" image="..\\..\\Images\\06.jpg" />
+  <product name="Пылесос" price="300" category="Бытовая техника" image="..\\..\\Images\\07.jpg" />
+  <product name="Микроволновка" price="400" category="Бытовая техника" image="..\\Images\\08.jpg" />
+  <product name="Холодильник" price="1500" category="Бытовая техника" image="..\\..\\Images\\09.jpg" />
+  <product name="Dell" price="9500" category="Компьютеры" image="..\\..\\Images\\10.png" />
+  <product name="Samsung" price="15000" category="Компьютеры" image="..\\..\\Images\\11.jpg" />
+  <product name="Lenovo" price="7500" category="Компьютеры" image="..\\..\\Images\\12.jpg" />
+  <product name="Кресло" price="1500" category="Мебель" image="..\\..\\Images\\13.jpg" />
+  <product name="Стол" price="2000" category="Мебель" image="..\\..\\Images\\14.jpg" />
+  <product name="Стул" price="500" category="Мебель" image="..\\..\\Images\\15.jpg" />
+  <product name="Кирпич" price="3" category="Стройматериалы" image="..\\..\\Images\\16.jpg" />
+  <product name="Цемент" price="70" category="Стройматериалы" image="..\\..\\Images\\17.jpg" />
+  <product name="Трубы" price="10000" category="Стройматериалы" image="..\\..\\Images\\18.jpg" />
+  <product name="ееее" price="100" category="пппп" image="..\..\Images\_vDizE727Jk.jpg" />
+  <product name="ййй" price="100" category="кккккк" image="..\..\Images\0O6-zPf3Z_A.jpg" />
+  <product name="щщщщ" price="200" category="еееее" image="..\..\Images\0001-1_5.jpg" />
+  <product name="рррр" price="50" category="ммммм" image="..\..\Images\5JVirOckXCM.jpg" />
+</root>
